@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monica</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **in my 100 hours project**
+- 🔭 I’m currently working on **my 100 hours project**
 
 - 🌱 I’m currently learning **Back-end**
 
