@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-end**
 
-- 👯 I’m looking to collaborate on **any front-end project**
+- 👯 I’m looking to collaborate on **any front-end and/or Open Source projects**
 
 - 💬 Ask me about **APIs**
 
