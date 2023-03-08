@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/tPq9A9nvc0SAcqttbc/giphy.gif" width="800" height="500"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Monica</h1>
 <h3 align="center">A passionate frontend developer from Scotland</h3>
 
