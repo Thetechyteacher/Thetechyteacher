@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my 100 hours project**
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **Node.js and Express**
 
 - 👯 I’m looking to collaborate on **any front-end and/or Open Source projects**
 
