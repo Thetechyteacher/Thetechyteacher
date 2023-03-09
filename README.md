@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Monica</h1>
-<h3 align="center">A passionate frontend developer from Scotland</h3>
+<h3 align="center">A passionate Full-Stack developer from Scotland</h3>
 
 - 🔭 I’m currently working on **my 100 hours project**
 
