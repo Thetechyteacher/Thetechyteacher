@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Node.js and Express**
 
-- 👯 I’m looking to collaborate on **any front-end and/or Open Source projects**
+- 👯 I’m looking to collaborate on **any front-end, back-end and/or Open Source projects**
 
-- 💬 Ask me about **APIs**
+- 💬 Ask me about **Back-End and Data (obsessed!)**
 
 - 📫 How to reach me **thetechyteacherr@gmail.com**
 
