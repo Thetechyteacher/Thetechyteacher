@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Monica</h1>
 <h3 align="center">A passionate Full-Stack developer from Scotland</h3>
 
-- 🔭 I’m currently working on **my 100 hours project**
+- 🔭 I’m currently working on **an analisis on the London Housing Market using data visualisation tools**
 
-- 🌱 I’m currently learning **Node.js and Express**
+- 🌱 I’m currently learning **Pandas, Numpy, Matplotlib and Machine Learning**
 
 - 👯 I’m looking to collaborate on **any front-end, back-end and/or Open Source projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thetechyteacherr@gmail.com**
 
-- ⚡ Fun fact **I am an Educator in the mornings,and a Software Developer after school hours.**
+- ⚡ Fun fact **I am currently undertaking the CFG Degree with a specialisation in Data.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
