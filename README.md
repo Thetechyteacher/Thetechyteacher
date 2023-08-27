@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thetechyteacherr@gmail.com**
 
-- ⚡ Fun fact **I am currently undertaking the CFG Degree with a specialisation in Data.**
+- ⚡ About me **I am currently undertaking the CFG Degree with a specialisation in Data.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
