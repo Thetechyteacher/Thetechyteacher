@@ -3,19 +3,19 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Monica</h1>
-<h3 align="center">A passionate Full-Stack developer from Scotland</h3>
+<h3 align="center">A passionate Cloud Engineer from Scotland</h3>
 
-- 🔭 I’m currently working on **an analisis on the London Housing Market using data visualisation tools**
+- 🔭 I’m currently working on **automating an incident response pipeline in AWS**
 
-- 🌱 I’m currently learning **Pandas, Numpy, Matplotlib and Machine Learning**
+- 🌱 I’m currently learning **Ansible**
 
-- 👯 I’m looking to collaborate on **any front-end, back-end and/or Open Source projects**
+- 👯 I’m looking to collaborate on **any Open Source projects**
 
-- 💬 Ask me about **Back-End and Data (obsessed!)**
+- 💬 Ask me about **AWS and automating (obsessed!)**
 
 - 📫 How to reach me **thetechyteacherr@gmail.com**
 
-- ⚡ About me **I am currently undertaking the CFG Degree with a specialisation in Data.**
+- ⚡ About me **I am currently working in FinTech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
