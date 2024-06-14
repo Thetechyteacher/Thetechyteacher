@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ansible**
 
-- 👯 I’m looking to collaborate on **any Open Source projects**
+- 👯 I’m looking to collaborate on **any Open Source/AI projects**
 
 - 💬 Ask me about **AWS and automating (obsessed!)**
 
